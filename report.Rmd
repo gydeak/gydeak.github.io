@@ -1,0 +1,129 @@
+---
+title: "A COVID-19 magyarországi járványügyi helyzete"
+date: '`r format(Sys.time(), "%Y\\. %m\\. %d\\. %H:%M")`'
+author: "Ferenci Tamás, https://research.physcon.uni-obuda.hu/COVID19MagyarEpi/"
+output: pdf_document
+params:
+  reportConf: 95
+  reportSImu: 3.96
+  reportSIsd: 4.75
+---
+
+```{r, include=FALSE}
+library(data.table)
+library(ggplot2)
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, dev = "cairo_pdf")
+options(digits = 3, knitr.kable.NA = "")
+RawData <- readRDS("RawData.dat")
+source("EpiHelpers.R", encoding = "UTF-8")
+resGr <- grData(predData(RawData, "Exponenciális", "Poisson", 95)$m, params$reportSImu, params$reportSIsd)
+resGrSw <- grSwData(RawData, lapply( 1:(nrow(RawData)-7+1), function(i) predData(RawData[i:(i+7-1)], "Exponenciális",
+                                                                                 "Poisson", 95)$m ),
+                    params$reportSImu, params$reportSIsd, 7)
+resBranch <- branchData(RawData, params$reportSImu, params$reportSIsd)
+resBranchSw <- branchSwData(RawData, params$reportSImu, params$reportSIsd, 7)
+```
+
+# Járványgörbe
+
+A járvány jelenlegi görbéje a rá illesztett simítógörbével, logaritmikus függőleges tengellyel:
+
+```{r}
+epicurvePlot(predData(RawData, "Exponenciális", "Poisson", params$reportConf)$pred, TRUE, FALSE, TRUE, TRUE, params$reportConf)
+```
+
+`r grText(predData(RawData, "Exponenciális", "Poisson", params$reportConf)$m, "Exponenciális")`
+
+# Előrejelzések
+
+## Empirikus (rövid távú)
+
+Grafikus előrejelzés a következő hétre:
+
+```{r}
+epicurvePlot(predData(RawData, "Exponenciális", "Poisson", params$reportConf, NA, 7)$pred, TRUE, TRUE, FALSE, TRUE, NA)
+```
+
+Számszerű előrejelzések a következő hétre:
+
+```{r}
+res <- round_dt(predData(RawData, "Exponenciális", "Poisson", params$reportConf, NA, 7)$pred)
+res$Pred <-  paste0(res$fit, " (", res$lwr, "-", res$upr, ")")
+res <- res[!duplicated(Date)]
+knitr::kable(res[, .(`Dátum` = Date, `Napi esetszám [fő/nap]` = CaseNumber,
+                     `Becsült napi esetszám (95%-os CI) [fő/nap]` = Pred)])
+```
+
+# Számításhoz használt feltevések
+
+A következő számításokhoz a modell feltételezi, hogy a serial interval (tehát az egy beteg tüneteinek jelentkezésétől az általa megbetegített emberek -- másodlagos fertőzések -- tüneteinek jelentkezéséig eltelő idő) gamma eloszlású `r params$SImuReport` várható értékkel és `r params$SIsdReport` szórással.
+
+# Reprodukciós szám becslései
+
+## Növekedési ráta alapján
+
+### Összes adat alapján
+
+Eloszlás:
+
+```{r}
+ggplot(resGr, aes(R)) + geom_density() + labs(y = "") + geom_vline(xintercept = 1, col = "red", size = 2) + expand_limits(x = 1)
+```
+
+Számszerű adatok:
+
+```{r}
+knitr::kable(data.table(`Változó` = c("Minimum", "Alsó kvartilis", "Medián", "Átlag", "Felső kvartilis", "Maximum"),
+                        `Érték` = as.numeric(summary(resGr$R))))
+```
+
+### 7 napos csúszóablak
+
+Grafikus ábra:
+
+```{r}
+ggplot(resGrSw, aes(x = Date)) + geom_line(aes(y = V1), col = "blue") +
+  geom_ribbon(aes(ymin = X2.5., ymax = X97.5.), fill = "blue", alpha = 0.2) +  geom_hline(yintercept = 1, color = "red") +
+  labs(x = "Dátum", y = "R") + expand_limits(y = 1)
+```
+
+Számszerűen:
+
+```{r}
+knitr::kable(round_dt(resGrSw)[, .(`Dátum` = Date, `R (95%-os CI)` = paste0(V1, " (", X2.5., "-", X97.5., ")"))])
+```
+
+## Elágozó folyamat-elven
+
+### Összes adat alapján
+
+Eloszlás:
+
+```{r}
+ggplot(resBranch, aes(R)) + geom_density() + labs(y = "") + geom_vline(xintercept = 1, col = "red", size = 2) +
+  expand_limits(x = 1)
+```
+
+Számszerűen:
+
+```{r}
+knitr::kable(data.table(`Változó` = c("Minimum", "Alsó kvartilis", "Medián", "Átlag", "Felső kvartilis", "Maximum" ),
+                        `Érték` = as.numeric(summary(resBranch$R))))
+```
+
+### 7 napos csúszóablak
+
+Grafikus ábra:
+
+```{r}
+ggplot(resBranchSw, aes(x = Date)) + geom_line(aes(y = `Mean(R)`), col = "blue") +
+  geom_ribbon(aes(ymin = `Quantile.0.025(R)`, ymax = `Quantile.0.975(R)`), fill = "blue", alpha = 0.2) +
+  geom_hline(yintercept = 1, color = "red") + labs(x = "Dátum", y = "R") + expand_limits(y = 1)
+```
+
+Számszerűen:
+
+```{r}
+knitr::kable(round_dt(resBranchSw)[, .(`Dátum` = Date, `R (95%-os CrI)` = paste0(`Mean(R)`, " (", `Quantile.0.025(R)`,
+                                                                                 "-", `Quantile.0.975(R)`, ")"))])
+```

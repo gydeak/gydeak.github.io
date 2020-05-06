@@ -1,65 +1,62 @@
-div {
-  display: flex;
-  flex-wrap: wrap;
-  width: 800px;
-  margin: 20px auto;
+#grad {
+    background-image: linear-gradient(to right, #cccccc, #ffffff, #cccccc);
+  }
+
+.whole {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    box-shadow: 0 4px 8px 0 grey;
 }
 
-header, footer {
-  display: flex;
-  justify-content: space-evenly;
-  align-items: center;
-  background: #606060;
-  width: 100%;
-  height: 100px;
-  color: white;
-  margin: 0 0 10px 0;
+.container {
+    position: relative;
+    max-width: 900px; /* Maximum width */
+    margin: 0 auto; /* Center it */
 }
-
-
-
-aside {
-  width: 280px;
-}
-
-h2.together::before {
-  content: '"';
-}
-
-h2.together::after {
-  content: '"';
-}
-
-.together {
-  color: white;
-  background: #505050;
-  padding: 5%;
-  margin: 0;
-  font-size: xxx-large;
-  font-family: cursive;
-}
-
-.orange {
-  position: relative;
-  text-align: bottom;
-  background: white;
-  color: white;
-}
-
-.title {
-  position: absolute;
-  padding: 0 0 0 5px;
-  bottom: 75px;
-  ;
-}
-
-main {
-  width: 500px;
-  background: white;
-  margin: 0 0 0 20px;
   
+.content {
+    position: absolute; /* Position the background text */
+    bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+    background: rgb(0, 0, 0); /* Fallback color */
+    background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+    color: #f1f1f1; /* Grey text */
+    width: 860px; /* Full width */
+    padding: 0px 20px 20px 20px; /* Some padding */
 }
 
-aside, main {
-  
+.thumbs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+
+.container2 {
+    position: relative;
+    max-width: 800px; /* Maximum width */
+    margin: 0; /* Center it */
+    border: 2px solid #fafafa;
+    box-shadow: 0 4px 8px 0 grey;    
+}
+
+.sidebutton {
+    background: #fafafa;
+    padding: 40px;
+    margin: 0;
+}
+
+.mySlides2 {
+    width: 90px;
+}
+#rightarrow {
+    transform: rotate(0.5turn);
 }

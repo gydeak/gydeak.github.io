@@ -2,6 +2,12 @@
     background-image: linear-gradient(to right, #cccccc, #ffffff, #cccccc);
   }
 
+h2 {
+    text-align: center;
+    margin: 0 auto;
+    color: #555555;
+}
+
 .whole {
     display: flex;
     flex-wrap: wrap;

@@ -2,6 +2,12 @@
     background-image: linear-gradient(to right, #cccccc, #ffffff, #cccccc);
   }
 
+.title {
+    text-align: center;
+    margin-top: 70px;
+    color: #777777;
+}
+
 .whole {
     display: flex;
     flex-wrap: wrap;
@@ -9,7 +15,7 @@
     width: 1100px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 100px;
+    margin-top: 70px;
     box-shadow: 0 4px 8px 0 grey;
 }
 
@@ -37,7 +43,7 @@
     width: 800px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 100px;
+    margin-top: 70px;
 }
 
 .container2 {

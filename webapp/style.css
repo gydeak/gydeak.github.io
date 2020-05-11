@@ -12,7 +12,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    width: 1100px;
+    width: 1241px;
     margin-left: auto;
     margin-right: auto;
     margin-top: 70px;
@@ -21,7 +21,7 @@
 
 .container {
     position: relative;
-    max-width: 900px; /* Maximum width */
+    max-width: 1161px; /* Maximum width */
     margin: 0 auto; /* Center it */
 }
   
@@ -31,8 +31,9 @@
     background: rgb(0, 0, 0); /* Fallback color */
     background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
     color: #f1f1f1; /* Grey text */
-    width: 860px; /* Full width */
-    padding: 0px 20px 20px 20px; /* Some padding */
+    width: 240px; /* Full width */
+    padding: 0px 10px 0px 10px; /* Some padding */
+    text-align: center;
 }
 
 .thumbs {
@@ -41,9 +42,10 @@
     justify-content: space-between;
     align-items: center;
     width: 800px;
+    /*width: 800px;*/
     margin-left: auto;
     margin-right: auto;
-    margin-top: 70px;
+    margin-top: 140px;
 }
 
 .container2 {
@@ -56,8 +58,9 @@
 
 .sidebutton {
     background: #fafafa;
-    padding: 40px;
+    padding: 10px;
     margin: 0;
+    /*width: 1%*/
 }
 
 .mySlides2 {

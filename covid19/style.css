@@ -8,64 +8,14 @@
     color: #777777;
 }
 
-.whole {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    width: 1241px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 70px;
-    box-shadow: 0 4px 8px 0 grey;
-}
-
 .container {
     position: relative;
-    max-width: 1161px; /* Maximum width */
-    margin: 0 auto; /* Center it */
-}
-  
-.content {
-    position: absolute; /* Position the background text */
-    bottom: 0; /* At the bottom. Use top:0 to append it to the top */
-    background: rgb(0, 0, 0); /* Fallback color */
-    background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
-    color: #f1f1f1; /* Grey text */
-    width: 240px; /* Full width */
-    padding: 0px 10px 0px 10px; /* Some padding */
-    text-align: center;
-}
-
-.thumbs {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: center;
-    width: 800px;
-    /*width: 800px;*/
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 140px;
+    justify-content: space-evenly;
+    margin-top: 70px;
 }
 
-.container2 {
-    position: relative;
-    max-width: 800px; /* Maximum width */
-    margin: 0; /* Center it */
-    border: 2px solid #fafafa;
-    box-shadow: 0 4px 8px 0 grey;    
-}
-
-.sidebutton {
-    background: #fafafa;
-    padding: 10px;
-    margin: 0;
-    /*width: 1%*/
-}
-
-.mySlides2 {
-    width: 90px;
-}
-#rightarrow {
-    transform: rotate(0.5turn);
+.link {
+    font-size: 1.7em;
 }

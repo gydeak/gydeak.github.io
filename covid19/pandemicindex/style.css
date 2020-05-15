@@ -4,8 +4,15 @@
 
 .title {
     text-align: center;
-    margin-top: 70px;
+    margin-top: 30px;
     color: #777777;
+}
+
+.button {
+    color: #777777;
+    padding: 20px;
+    font-size: 15px;
+    margin: 10px 0 0 10px;
 }
 
 .whole {

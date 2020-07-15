@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="303mm" height="170mm" viewBox="0 0 30300 17000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="rgb(255,255,255)" stroke="none" d="M 15150,16999 L 0,16999 0,0 30299,0 30299,16999 15150,16999 Z"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 15731,13265 L 1825,13265 1825,2379 29637,2379 29637,13265 15731,13265 Z"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 29637,13264 L 1825,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 29637,12054 L 1825,12054"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 29637,10844 L 1825,10844"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 29637,9635 L 1825,9635"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 29637,8426 L 1825,8426"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 29637,7216 L 1825,7216"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 29637,6007 L 1825,6007"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 29637,4797 L 1825,4797"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 29637,3587 L 1825,3587"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 29637,2378 L 1825,2378"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 1825,13414 L 1825,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 2392,13414 L 2392,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 2960,13414 L 2960,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 3527,13414 L 3527,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 4095,13414 L 4095,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 4663,13414 L 4663,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 5230,13414 L 5230,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 5798,13414 L 5798,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 6365,13414 L 6365,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 6933,13414 L 6933,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 7501,13414 L 7501,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 8068,13414 L 8068,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 8636,13414 L 8636,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 9203,13414 L 9203,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 9771,13414 L 9771,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 10339,13414 L 10339,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 10906,13414 L 10906,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 11474,13414 L 11474,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 12042,13414 L 12042,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 12609,13414 L 12609,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 13177,13414 L 13177,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 13744,13414 L 13744,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 14312,13414 L 14312,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 14880,13414 L 14880,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 15446,13414 L 15446,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 16014,13414 L 16014,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 16581,13414 L 16581,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 17149,13414 L 17149,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 17717,13414 L 17717,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 18284,13414 L 18284,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 18852,13414 L 18852,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 19419,13414 L 19419,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 19987,13414 L 19987,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 20555,13414 L 20555,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 21122,13414 L 21122,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 21690,13414 L 21690,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 22258,13414 L 22258,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 22825,13414 L 22825,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 23393,13414 L 23393,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 23960,13414 L 23960,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 24528,13414 L 24528,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 25096,13414 L 25096,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 25663,13414 L 25663,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 26231,13414 L 26231,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 26798,13414 L 26798,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 27366,13414 L 27366,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 27934,13414 L 27934,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 28501,13414 L 28501,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 29069,13414 L 29069,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 29636,13414 L 29636,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 1825,13264 L 29637,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 1675,13264 L 1825,13264"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 1675,12054 L 1825,12054"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 1675,10844 L 1825,10844"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 1675,9635 L 1825,9635"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 1675,8426 L 1825,8426"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 1675,7216 L 1825,7216"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 1675,6007 L 1825,6007"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 1675,4797 L 1825,4797"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 1675,3587 L 1825,3587"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 1675,2378 L 1825,2378"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-width="18" stroke-linejoin="round" d="M 1825,13264 L 1825,2377"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 29211,13264 L 29495,13264 29495,13263 29211,13263 29211,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 28643,13264 L 28927,13264 28927,13259 28643,13259 28643,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 28076,13264 L 28359,13264 28359,13249 28076,13249 28076,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 27508,13264 L 27792,13264 27792,13242 27508,13242 27508,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 26940,13264 L 27224,13264 27224,13241 26940,13241 26940,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 26373,13264 L 26657,13264 26657,13233 26373,13233 26373,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 25805,13264 L 26089,13264 26089,13231 25805,13231 25805,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 25238,13264 L 25521,13264 25521,13230 25238,13230 25238,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 24670,13264 L 24954,13264 24954,13222 24670,13222 24670,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 24102,13264 L 24386,13264 24386,13221 24102,13221 24102,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 23535,13264 L 23818,13264 23818,13207 23535,13207 23535,13264 Z"/>
+ <path fill="rgb(255,0,0)" stroke="none" d="M 22967,13264 L 23251,13264 23251,13207 22967,13207 22967,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 22399,13264 L 22683,13264 22683,13204 22399,13204 22399,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 21832,13264 L 22116,13264 22116,13189 21832,13189 21832,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 21264,13264 L 21548,13264 21548,13177 21264,13177 21264,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 20697,13264 L 20980,13264 20980,13155 20697,13155 20697,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 20129,13264 L 20413,13264 20413,13135 20129,13135 20129,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 19561,13264 L 19845,13264 19845,13119 19561,13119 19561,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 18994,13264 L 19278,13264 19278,13111 18994,13111 18994,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 18426,13264 L 18710,13264 18710,13085 18426,13085 18426,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 17859,13264 L 18142,13264 18142,13033 17859,13033 17859,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 17291,13264 L 17575,13264 17575,13031 17291,13031 17291,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 16723,13264 L 17007,13264 17007,13028 16723,13028 16723,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 16156,13264 L 16440,13264 16440,13013 16156,13013 16156,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 15588,13264 L 15872,13264 15872,13004 15588,13004 15588,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 15021,13264 L 15304,13264 15304,12895 15021,12895 15021,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 14454,13264 L 14738,13264 14738,12860 14454,12860 14454,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 13886,13264 L 14170,13264 14170,12855 13886,12855 13886,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 13319,13264 L 13602,13264 13602,12826 13319,12826 13319,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 12751,13264 L 13035,13264 13035,12810 12751,12810 12751,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 12183,13264 L 12467,13264 12467,12753 12183,12753 12183,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 11616,13264 L 11900,13264 11900,12684 11616,12684 11616,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 11048,13264 L 11332,13264 11332,12662 11048,12662 11048,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 10481,13264 L 10764,13264 10764,12638 10481,12638 10481,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 9913,13264 L 10197,13264 10197,12625 9913,12625 9913,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 9345,13264 L 9629,13264 9629,12585 9345,12585 9345,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 8778,13264 L 9062,13264 9062,12508 8778,12508 8778,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 8210,13264 L 8494,13264 8494,12394 8210,12394 8210,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 7643,13264 L 7926,13264 7926,12359 7643,12359 7643,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 7075,13264 L 7359,13264 7359,12354 7075,12354 7075,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 6507,13264 L 6791,13264 6791,12272 6507,12272 6507,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 5940,13264 L 6223,13264 6223,12089 5940,12089 5940,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 5372,13264 L 5656,13264 5656,11328 5372,11328 5372,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 4804,13264 L 5088,13264 5088,11074 4804,11074 4804,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 4237,13264 L 4521,13264 4521,10976 4237,10976 4237,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 3669,13264 L 3953,13264 3953,10748 3669,10748 3669,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 3102,13264 L 3385,13264 3385,10636 3102,10636 3102,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 2534,13264 L 2818,13264 2818,10613 2534,10613 2534,13264 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 1966,13264 L 2250,13264 2250,7332 1966,7332 1966,13264 Z"/>
+ <path fill="none" stroke="rgb(0,69,134)" stroke-linejoin="round" d="M 1825,12571 L 29637,12571"/>
+ <text class="TextShape" transform="rotate(-49.9 1740 14265)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="1740" y="14265"><tspan fill="rgb(0,0,0)" stroke="none">USA</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 2221 14368)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="2221" y="14368"><tspan fill="rgb(0,0,0)" stroke="none">Israel</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 1667 15705)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="1667" y="15705"><tspan fill="rgb(0,0,0)" stroke="none">North Macedonia</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 2744 15096)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="2744" y="15096"><tspan fill="rgb(0,0,0)" stroke="none">Montenegro</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 3653 14691)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="3653" y="14691"><tspan fill="rgb(0,0,0)" stroke="none">Armenia</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 3829 15158)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="3829" y="15158"><tspan fill="rgb(0,0,0)" stroke="none">Luxembourg</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 3206 16576)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="3206" y="16576"><tspan fill="rgb(0,0,0)" stroke="none">Bosnia and Herzegovina</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 5339 14711)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="5339" y="14711"><tspan fill="rgb(0,0,0)" stroke="none">Moldova</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 5872 14752)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="5872" y="14752"><tspan fill="rgb(0,0,0)" stroke="none">Romania</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 6491 14691)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="6491" y="14691"><tspan fill="rgb(0,0,0)" stroke="none">Portugal</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 7143 14590)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="7143" y="14590"><tspan fill="rgb(0,0,0)" stroke="none">Albania</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 7405 14954)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="7405" y="14954"><tspan fill="rgb(0,0,0)" stroke="none">Azerbaijan</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 8228 14651)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="8228" y="14651"><tspan fill="rgb(0,0,0)" stroke="none">Sweden</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 8778 14671)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="8778" y="14671"><tspan fill="rgb(0,0,0)" stroke="none">Bulgaria</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 9346 14671)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="9346" y="14671"><tspan fill="rgb(0,0,0)" stroke="none">Belgium</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 10406 14083)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="10406" y="14083"><tspan fill="rgb(0,0,0)" stroke="none">UK</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 10651 14468)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="10651" y="14468"><tspan fill="rgb(0,0,0)" stroke="none">Serbia</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 11287 14388)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="11287" y="14388"><tspan fill="rgb(0,0,0)" stroke="none">Spain</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 11735 14529)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="11735" y="14529"><tspan fill="rgb(0,0,0)" stroke="none">France</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 12286 14550)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="12286" y="14550"><tspan fill="rgb(0,0,0)" stroke="none">Croatia</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 12412 15076)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="12412" y="15076"><tspan fill="rgb(0,0,0)" stroke="none">Switzerland</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 13437 14529)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="13437" y="14529"><tspan fill="rgb(0,0,0)" stroke="none">Russia</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 14005 14529)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="14005" y="14529"><tspan fill="rgb(0,0,0)" stroke="none">Turkey</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 14401 14732)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="14401" y="14732"><tspan fill="rgb(0,0,0)" stroke="none">Slovenia</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 15123 14550)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="15123" y="14550"><tspan fill="rgb(0,0,0)" stroke="none">Austria</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 15215 15117)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="15215" y="15117"><tspan fill="rgb(0,0,0)" stroke="none">Netherlands</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 16207 14610)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="16207" y="14610"><tspan fill="rgb(0,0,0)" stroke="none">Ukraine</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 17098 14225)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="17098" y="14225"><tspan fill="rgb(0,0,0)" stroke="none">Italy</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 17410 14529)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="17410" y="14529"><tspan fill="rgb(0,0,0)" stroke="none">Poland</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 17995 14509)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="17995" y="14509"><tspan fill="rgb(0,0,0)" stroke="none">Ireland</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 18342 14772)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="18342" y="14772"><tspan fill="rgb(0,0,0)" stroke="none">Denmark</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 18994 14671)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="18994" y="14671"><tspan fill="rgb(0,0,0)" stroke="none">Czechia</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 19647 14570)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="19647" y="14570"><tspan fill="rgb(0,0,0)" stroke="none">Greece</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 20028 14792)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="20028" y="14792"><tspan fill="rgb(0,0,0)" stroke="none">Germany</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 20901 14428)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="20901" y="14428"><tspan fill="rgb(0,0,0)" stroke="none">Japan</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 21316 14610)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="21316" y="14610"><tspan fill="rgb(0,0,0)" stroke="none">Belarus</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 21917 14570)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="21917" y="14570"><tspan fill="rgb(0,0,0)" stroke="none">Iceland</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 22383 14691)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="22383" y="14691"><tspan fill="rgb(0,0,0)" stroke="none">Hungary</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 23070 14550)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="23070" y="14550"><tspan fill="rgb(0,0,0)" stroke="none">Cyprus</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 23739 14428)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="23739" y="14428"><tspan fill="rgb(0,0,0)" stroke="none">Latvia</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 24051 14732)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="24051" y="14732"><tspan fill="rgb(0,0,0)" stroke="none">Slovakia</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 24755 14570)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="24755" y="14570"><tspan fill="rgb(0,0,0)" stroke="none">Finland</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 25289 14610)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="25289" y="14610"><tspan fill="rgb(0,0,0)" stroke="none">Estonia</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 25874 14590)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="25874" y="14590"><tspan fill="rgb(0,0,0)" stroke="none">Norway</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 26288 14772)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="26288" y="14772"><tspan fill="rgb(0,0,0)" stroke="none">Lithuania</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 26873 14752)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="26873" y="14752"><tspan fill="rgb(0,0,0)" stroke="none">S. Korea</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 27542 14631)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="27542" y="14631"><tspan fill="rgb(0,0,0)" stroke="none">Georgia</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 28330 14368)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="28330" y="14368"><tspan fill="rgb(0,0,0)" stroke="none">Malta</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-49.9 28882 14388)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="28882" y="14388"><tspan fill="rgb(0,0,0)" stroke="none">China</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="596" y="13385"><tspan fill="rgb(0,0,0)" stroke="none">0,00%</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="596" y="12175"><tspan fill="rgb(0,0,0)" stroke="none">0,33%</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="596" y="10965"><tspan fill="rgb(0,0,0)" stroke="none">0,67%</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="596" y="9756"><tspan fill="rgb(0,0,0)" stroke="none">1,00%</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="596" y="8546"><tspan fill="rgb(0,0,0)" stroke="none">1,33%</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="596" y="7336"><tspan fill="rgb(0,0,0)" stroke="none">1,67%</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="596" y="6127"><tspan fill="rgb(0,0,0)" stroke="none">2,00%</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="596" y="4917"><tspan fill="rgb(0,0,0)" stroke="none">2,33%</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="596" y="3707"><tspan fill="rgb(0,0,0)" stroke="none">2,67%</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="596" y="2498"><tspan fill="rgb(0,0,0)" stroke="none">3,00%</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="459px" font-weight="400"><tspan class="TextPosition" x="7133" y="1011"><tspan fill="rgb(0,0,0)" stroke="none">Active cases per population/ Aktív esetek száma a lakosság %-ában 2020.07.13.</tspan></tspan></tspan></text>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 9412,1844 L 9012,1844 9012,1633 9812,1633 9812,1844 9412,1844 Z"/>
+ <path fill="none" stroke="rgb(0,69,134)" stroke-linejoin="round" d="M 14617,1738 L 15416,1738"/>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="9912" y="1858"><tspan fill="rgb(0,0,0)" stroke="none">Active real cases percentage</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="15516" y="1858"><tspan fill="rgb(0,0,0)" stroke="none">Közép (Active real cases percentage)</tspan></tspan></tspan></text>
+</svg>

@@ -80,9 +80,9 @@
  <path fill="rgb(0,69,134)" stroke="none" d="M 32492,9371 L 32821,9371 32821,9157 32492,9157 32492,9371 Z"/>
  <path fill="rgb(0,69,134)" stroke="none" d="M 31835,9371 L 32164,9371 32164,9131 31835,9131 31835,9371 Z"/>
  <path fill="rgb(0,69,134)" stroke="none" d="M 31179,9371 L 31507,9371 31507,8994 31179,8994 31179,9371 Z"/>
- <path fill="rgb(0,69,134)" stroke="none" d="M 30522,9371 L 30850,9371 30850,8836 30522,8836 30522,9371 Z"/>
- <path fill="rgb(0,69,134)" stroke="none" d="M 29865,9371 L 30193,9371 30193,8571 29865,8571 29865,9371 Z"/>
- <path fill="rgb(0,69,134)" stroke="none" d="M 29208,9371 L 29536,9371 29536,8541 29208,8541 29208,9371 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 30522,9371 L 30850,9371 30850,8571 30522,8571 30522,9371 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 29865,9371 L 30193,9371 30193,8541 29865,8541 29865,9371 Z"/>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 29208,9371 L 29536,9371 29536,8237 29208,8237 29208,9371 Z"/>
  <path fill="rgb(0,69,134)" stroke="none" d="M 28551,9371 L 28880,9371 28880,8178 28551,8178 28551,9371 Z"/>
  <path fill="rgb(0,69,134)" stroke="none" d="M 27894,9371 L 28223,9371 28223,8168 27894,8168 27894,9371 Z"/>
  <path fill="rgb(0,69,134)" stroke="none" d="M 27238,9371 L 27566,9371 27566,8009 27238,8009 27238,9371 Z"/>
@@ -124,7 +124,7 @@
  <path fill="rgb(0,69,134)" stroke="none" d="M 3592,9371 L 3921,9371 3921,3474 3592,3474 3592,9371 Z"/>
  <path fill="rgb(0,69,134)" stroke="none" d="M 2936,9371 L 3264,9371 3264,2572 2936,2572 2936,9371 Z"/>
  <path fill="rgb(0,69,134)" stroke="none" d="M 2279,9371 L 2607,9371 2607,2217 2279,2217 2279,9371 Z"/>
- <path fill="none" stroke="rgb(0,69,134)" stroke-linejoin="round" d="M 2115,6797 L 34299,6797"/>
+ <path fill="none" stroke="rgb(0,69,134)" stroke-linejoin="round" d="M 2115,6785 L 34299,6785"/>
  <text class="TextShape" transform="rotate(-44.9 1722 10651)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="1722" y="10651"><tspan fill="rgb(0,0,0)" stroke="none">Albania</tspan></tspan></tspan></text>
  <text class="TextShape" transform="rotate(-44.9 2041 10988)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="2041" y="10988"><tspan fill="rgb(0,0,0)" stroke="none">Azerbaijan</tspan></tspan></tspan></text>
  <text class="TextShape" transform="rotate(-44.9 2942 10744)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="2942" y="10744"><tspan fill="rgb(0,0,0)" stroke="none">Armenia</tspan></tspan></tspan></text>
@@ -166,9 +166,9 @@
  <text class="TextShape" transform="rotate(-44.9 26755 10576)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="26755" y="10576"><tspan fill="rgb(0,0,0)" stroke="none">Ireland</tspan></tspan></tspan></text>
  <text class="TextShape" transform="rotate(-44.9 27281 10707)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="27281" y="10707"><tspan fill="rgb(0,0,0)" stroke="none">Sweden</tspan></tspan></tspan></text>
  <text class="TextShape" transform="rotate(-44.9 28144 10501)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="28144" y="10501"><tspan fill="rgb(0,0,0)" stroke="none">Latvia</tspan></tspan></tspan></text>
- <text class="TextShape" transform="rotate(-44.9 28801 10501)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="28801" y="10501"><tspan fill="rgb(0,0,0)" stroke="none">Japan</tspan></tspan></tspan></text>
- <text class="TextShape" transform="rotate(-44.9 29158 10800)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="29158" y="10800"><tspan fill="rgb(0,0,0)" stroke="none">S. Korea</tspan></tspan></tspan></text>
- <text class="TextShape" transform="rotate(-44.9 29777 10838)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="29777" y="10838"><tspan fill="rgb(0,0,0)" stroke="none">Germany</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-44.9 28463 10838)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="28463" y="10838"><tspan fill="rgb(0,0,0)" stroke="none">Germany</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-44.9 29458 10501)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="29458" y="10501"><tspan fill="rgb(0,0,0)" stroke="none">Japan</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-44.9 29815 10800)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="29815" y="10800"><tspan fill="rgb(0,0,0)" stroke="none">S. Korea</tspan></tspan></tspan></text>
  <text class="TextShape" transform="rotate(-44.9 30454 10819)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="30454" y="10819"><tspan fill="rgb(0,0,0)" stroke="none">Denmark</tspan></tspan></tspan></text>
  <text class="TextShape" transform="rotate(-44.9 31279 10651)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="31279" y="10651"><tspan fill="rgb(0,0,0)" stroke="none">Norway</tspan></tspan></tspan></text>
  <text class="TextShape" transform="rotate(-44.9 31953 10632)"><tspan class="TextParagraph" font-family="Arial, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="31953" y="10632"><tspan fill="rgb(0,0,0)" stroke="none">Finland</tspan></tspan></tspan></text>
